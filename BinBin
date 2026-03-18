@@ -9,4 +9,5 @@ return {
     ["anhlazicpi"] = true,
     ["Bom_HayBuonn"] = true,
     ["Npham05"] = true,
+    ["bolanghoa"] = true,
 }
